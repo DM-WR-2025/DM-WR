@@ -183,6 +183,8 @@
             }
         }
     </style>
+    <img src="https://raw.githubusercontent.com/DM-WR-2025/DM-WR/0d983da5d457b530e4e5bebcadbffc123f8b3fb5/DUBAI%20HOLDING%20LOGO.png" alt="Dubai Holding Logo">
+
     <script>
 
         function showWheelchairOptions() {
