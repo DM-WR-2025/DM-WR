@@ -16,14 +16,20 @@
     }
 
     body {
-      background: linear-gradient(135deg, #f0f4ff, #d9e6ff);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      padding: 20px;
-      color: #1e1e2f;
-    }
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.85), rgba(245, 250, 255, 0.85)),
+    url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJL5ICvjpd8aCNP2VzkSUNhyYYJvhRNSmWcw&s');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  color: #1e1e2f;
+}
+
 
     .form-container {
       background: #ffffffdd;
