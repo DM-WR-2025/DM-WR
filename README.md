@@ -179,7 +179,8 @@
 
 <body>
   <div class="form-container" role="main" aria-label="Customer Feedback Form">
-    <img src="https://raw.githubusercontent.com/DM-WR-2025/DM-WR/main/Screenshot%202025-09-14%20121907.png" alt="DM-WR Screenshot" width="150">
+    <img src="https://raw.githubusercontent.com/DM-WR-2025/DM-WR/main/DM_-_LOGO-removebg-preview.png" alt="DM Logo" width="150">
+
 
     <h1>Customer Feedback</h1>
 
