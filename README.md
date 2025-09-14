@@ -179,9 +179,6 @@
 
 <body>
   <div class="form-container" role="main" aria-label="Customer Feedback Form">
-  <img src="https://github.com/DM-WR-2025/DragonMart-WR-2025/blob/main/1990.png?raw=true" alt="1990 Image">
-
-      alt="DragonMart Logo" />
     <h1>Customer Feedback</h1>
 
     <form id="feedbackForm" novalidate>
